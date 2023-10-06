@@ -1,6 +1,6 @@
 ### Bem Vindo 👋   ^_^  
 
-- 👨‍🎓 Estudante Tecnico em DS é cursos livres na area.
+- 👨‍🎓 Tecnico em DS é cursos livres na area.
 -
 
 
