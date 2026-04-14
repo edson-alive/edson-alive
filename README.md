@@ -3,10 +3,7 @@
 - 👨‍🎓 Tecnico em DS e cursos livres na área.
 
 <div>
-  <a href="https://github.com/edson-alive">
-    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=edson-alive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-alive&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+ <img src="https://i.pinimg.com/236x/b6/6d/88/b66d88b73fc5b6663b8b361904c49a9c.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 236px; height: 100px; margin: 0px; width: 56px;" alt="220 ideias de Lindo de se ver! Belas imagens! para salvar ..." jsname="kn3ccd">
 </div>
 
 <br>
