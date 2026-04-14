@@ -9,7 +9,9 @@
 <br>
 
  <div>
-<img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1280px; height: 100px; margin: 0px; width: 178px;" alt="Além de live action, Akira também vai virar anime - Rolling Stone Brasil" jsname="kn3ccd">
+<img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" 
+     style="width: 100%; max-width: 800px; height: auto;" 
+     alt="Akira Anime">
  </div>
 
 <div style="display: inline-block">
