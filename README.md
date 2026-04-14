@@ -4,7 +4,7 @@
 
  <div>
 <img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" 
-     style="width: 100%; max-width: 600px; height: auto;" 
+     style="width: 100%; max-width: 100px; height: auto;" 
      alt="Akira Anime">
  </div>
 
