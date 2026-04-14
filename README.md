@@ -28,5 +28,5 @@
 
 <br>
 <div align="center">
-  <img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" width="100%" style="max-width: 800px; border-radius: 5px;" alt="Akira Banner">
+  <img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" width="100%" style="max-width: 800px; border-radius: 20px;" alt="Akira Banner">
 </div>
