@@ -1,6 +1,5 @@
 ### Bem Vindo 👋 ^_^
-- 👨‍🎓 Técnico em DS e cursos livres na área.
-
+- 👨‍🎓 
 <div align="center">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
