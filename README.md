@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/edson-alive" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
+<br>
 <div align="center">
-  <img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" width="80%" style="max-width: 800px; border-radius: 10px;" alt="Akira Banner">
+  <img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" width="100%" style="max-width: 800px; border-radius: 5px;" alt="Akira Banner">
 </div>
