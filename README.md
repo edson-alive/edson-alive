@@ -20,3 +20,9 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/edson-alive/edson-alive/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" width="800" style="max-width: 100%; border-radius: 10px;" alt="Akira Banner">
+</div>
