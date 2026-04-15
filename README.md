@@ -1,9 +1,5 @@
 ### Bem Vindo 👋 ^_^
 - 👨‍🎓
-
-### Bem Vindo 👋 ^_^
-- 👨‍🎓
-
 <br>
 
 <div align="center">
