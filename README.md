@@ -1,17 +1,12 @@
 ### Bem Vindo 👋 ^_^
 - 👨‍🎓
 
-<br>
-
 <div align="center">
-
 | JS | HTML | CSS | Python | C# | .NET | PHP | Linux |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> | <img alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"> | <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> |
 
 </div>
-
-<br>
 
 <div align="center">
   <picture>
@@ -21,7 +16,6 @@
   </picture>
 </div>
 </div>
-
 
 <div align="center">
   <img src="https://rollingstone.com.br/wp-content/uploads/akira-cena-moto.jpg" width="800" style="max-width: 100%; border-radius: 10px;" alt="Akira Banner">
